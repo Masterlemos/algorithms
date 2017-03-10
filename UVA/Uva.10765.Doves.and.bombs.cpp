@@ -65,7 +65,7 @@ int main(){
        	rootChildren = 0;
        	dfsRoot = i;
         artic(i);
-        art_vertex[i] = (rootChildren > 1);
+        art_vertex[i] = rootChildren-1;
        }
      }
      
