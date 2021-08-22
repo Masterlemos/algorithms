@@ -1,0 +1,10 @@
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.deps.json
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.runtimeconfig.json
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.runtimeconfig.dev.json
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.dll
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\bin\Debug\netcoreapp2.1\FenwickTree.pdb
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.csprojAssemblyReference.cache
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.AssemblyInfoInputs.cache
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.AssemblyInfo.cs
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.dll
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\FenwickTree\obj\Debug\netcoreapp2.1\FenwickTree.pdb

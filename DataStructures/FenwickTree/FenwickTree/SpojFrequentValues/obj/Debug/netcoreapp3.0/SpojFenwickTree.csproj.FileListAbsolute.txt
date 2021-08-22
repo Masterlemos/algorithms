@@ -1,0 +1,11 @@
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\obj\Debug\netcoreapp3.0\SpojFenwickTree.csprojAssemblyReference.cache
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\obj\Debug\netcoreapp3.0\SpojFenwickTree.AssemblyInfoInputs.cache
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\obj\Debug\netcoreapp3.0\SpojFenwickTree.AssemblyInfo.cs
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\bin\Debug\netcoreapp3.0\SpojFenwickTree.exe
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\bin\Debug\netcoreapp3.0\SpojFenwickTree.deps.json
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\bin\Debug\netcoreapp3.0\SpojFenwickTree.runtimeconfig.json
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\bin\Debug\netcoreapp3.0\SpojFenwickTree.runtimeconfig.dev.json
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\bin\Debug\netcoreapp3.0\SpojFenwickTree.dll
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\bin\Debug\netcoreapp3.0\SpojFenwickTree.pdb
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\obj\Debug\netcoreapp3.0\SpojFenwickTree.dll
+C:\Users\aldol\Documents\books\algorithm\cp3\fenwicktree\FenwickTree\SpojFrequentValues\obj\Debug\netcoreapp3.0\SpojFenwickTree.pdb
